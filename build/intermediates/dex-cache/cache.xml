@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_3b8416ebac566d82c896d8aa5c6556b31c3dda4c.jar" />
+    </item>
+    <item
+        jar="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_a896807ea3ca59e719506a9ed58d1a2c2d26de2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\yogesh\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_29ceeccda9790ef0f84ebdb2e516d4e1ca192fce.jar" />
+    </item>
+    <item
+        jar="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_86b07c6b1d8379fa28fcc243f0df63cd2f521758.jar" />
+    </item>
+    <item
+        jar="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_446aa948b0926b6e1a717510c1336453812937d0.jar" />
+    </item>
+    <item
+        jar="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Varun\VJTI\SYBtech\Sem IV\Android with CS\ShortestPath\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_26147aa9cbbad27ac3c22146a31851d91d7bc648.jar" />
+    </item>
+
+</items>
